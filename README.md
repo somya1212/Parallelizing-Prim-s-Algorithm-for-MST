@@ -2,7 +2,7 @@
 # External Libraries: 
 Libraries of C programming and CUDA libraries like Thrust
 
-# Programming Language AND Hardware Details:
+# Programming Language and Hardware Details:
 The programming language used for the implementation of is C++. 
 The hardware details of the system are -
 CPU - INTEL(R) core(TM)i5 - 7200CPU   
